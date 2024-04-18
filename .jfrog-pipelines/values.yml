@@ -1,0 +1,4 @@
+gitProvider: meyerJfrogGithub
+artifactory: myArtifactory
+repoPath: meyerfrog/jfrog-maven-hello-world
+deployerRepo: jfrog-maven-example

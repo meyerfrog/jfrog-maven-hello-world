@@ -4,10 +4,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jfrog.test</groupId>
-  <artifactId>my-jfrog-app</artifactId>
+  <artifactId>jfrog-maven-example</artifactId>
   <version>3.7-SNAPSHOT</version>
+  <packaging>pom</packaging>
   <name>Simple Multi Modules Build</name>
-  <url>http://www.example.com</url>
 
 
   <properties>

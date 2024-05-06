@@ -96,7 +96,7 @@
               </descriptorRefs>
               <archive>
                   <manifest>
-                    <mainClass>com.jfrog.app.main</mainClass>
+                    <mainClass>com.jfrog.App</mainClass>
                   </manifest>
               </archive>
           </configuration>
